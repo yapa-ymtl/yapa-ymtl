@@ -1,5 +1,7 @@
 ### Hi there, Welcome to my GitHub 🤗
 
+[![yapa-ymtl's github stats](https://github-readme-stats.vercel.app/api?username=yapa-ymtl&hide=issues&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- 
 Refer this link to edit Readme: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
 <picture>
